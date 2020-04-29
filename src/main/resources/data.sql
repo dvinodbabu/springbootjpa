@@ -1,0 +1,1 @@
+insert into student_model values (100,'vinod');
